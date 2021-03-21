@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cybernetic-post-278423",
+  "private_key_id": "2ca237bd792f878c82fb6c05ce999e886cf2d351",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfwAnh8zL0QmvK\n2TJivxl7Al/y/fM2KY9QFJdPwLDoMHvUTkIkOQTtX6XmekCpetmmsupN2UgG2Hq4\nCfLTg3NFQedsvKPqy2EetbS56zkED5OV8ylW3o0tiRMA/Nb9k5BRciVevc6jeDn2\nzFCmwt+rJyjwdsQBC+TIy4a3/QlfS7dy0egEI8cICmdNcQxYWQnzasMi1IJ9NqXp\nATVfl5iRba/noTTnuEz/0OIvgF6lBGkzrSq2q7KgKCttZ8icohxmlatA+/YTioAj\namjdVPK8rb9ikbgBFWivoMKyThTMqZRqFhyR65bg26SlRvLT2q3VPHm9udj1WNOn\n5lTW/jqpAgMBAAECggEARgNBsYvHOKMFn/zp5rovHiivyYy/82xqeWPU3uip/9ED\n7EuyFDMDNE93o5fP0Bdd3X/LTXwdY5arzg3aJRYWxnM4TIEua+Bfu7hSMStkrSFw\ngsbzxrU59Yt+TzAAv1jVZsSamTehoSY3bTElZbjBkz7R4/WBOJ4wUkpUzD0zRtZz\nvH9xPi8718nRBoJQ720vFEYFLStT6oa47csvLDMGxgt7C9puNnMCws16jODyysHw\ndZuSkF/WGHIK9K2dYIHPmonsiyLlsY3hOOPSccdwYmxFVzxHY+X1JWh1/mhKknQU\nXw5zrKLC7CrhpasF+QAQxohv2OmhL4kyrgJykYvAkwKBgQDfJ5MG0LuYaWPuHY92\n8m3CZUxzzi9Q6OQGhdRqn+wK+/hr5I1BJ9DiJKmkiGYNf5QBABIvAq6/veHXcXGe\nIDWPyEbRQgRzecDdHR6mGrD22OsSzZODeQBbrzdnjT2H0Sbsc2nvSektsnHPuZ4Y\nhalqYQKyxJYiViQgnUcAb08w9wKBgQC3Q2VwaEKwmtj3asrPywjX7R6s/o0lXruc\nuOlN07DtggsnE+6w+JMRjP1dcRhixQWjRpN/0/bCUKw7+bXgfYJ8wl+rXiOXHTh+\nH3YG8D1ne5AoeIvmo/DWXxC36ByGfLydFrGSUkA5v2RWrZxwuSxeLIYxXPENPXx0\neu2LPvipXwKBgQCebNsNqJy2HIQsZWIXwQ65Ru9a+9NNrrlMBDEErZqHRdFcz7qU\nui6qjfq963QAO0WY3DMMmuvzBlxSdqCB8T31YOsd3q+IR7TrhaPfqu1doixpgfcr\nDHl7nc5IvtYjGRJ4JYvcrO1VWu0/2vhpUmMvOcYPok8v+1XUrbPdlCh1iwKBgDlv\nyg8c3inzniSNN9tASxlBm+ekMCCSPEK2QYi+3CjUJSKuQJT+kzlg8teiZn4uOcIe\nkIPzrtbf6dsyPCqLq6XmVY2kB4uJAPembJtoGBaix1+nyFEU+Jp3WQoKmUYdOhAR\n2L1/QdnXfl8cMnex0ZICalx2QKZhquvmyyRlLBIJAoGBAISqyzeGaZTOYZt45oSP\nOPqMkX3zpmu38bZXjqnezwPqmao5LjhHCkMPPVuppkBz6Xuph+rJ6KZchqufOEqu\ne5aJcBghux1tut5sDqmoKWn10kAmVF+oCvhuxkSJuk9RcjATWXghupCgRxm4I/lw\ntm7Z1SYMlu8qugajiAApoEoR\n-----END PRIVATE KEY-----\n",
+  "client_email": "covidchat@cybernetic-post-278423.iam.gserviceaccount.com",
+  "client_id": "107229860366591972130",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/covidchat%40cybernetic-post-278423.iam.gserviceaccount.com"
+}

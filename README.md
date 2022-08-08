@@ -1,4 +1,7 @@
-## Covid-19 application
+# Covid-19 application
+
+## Screenshots
+
 ### Home page 
 <img width="422" alt="Capture d’écran 2022-08-08 à 16 13 14" src="https://user-images.githubusercontent.com/67557339/183451920-83208e3b-6d96-44c1-b02d-37a30666feba.png">
 

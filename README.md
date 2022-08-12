@@ -1,4 +1,4 @@
-# Covid-19 application
+## Covid-19 application
 
 ## Screenshots
 
